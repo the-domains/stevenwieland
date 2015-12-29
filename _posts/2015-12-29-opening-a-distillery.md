@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T02:13:37.633Z'
-dateModified: '2015-12-29T02:07:23.055Z'
+description: How to get a TTB permit for a distillery. Distilled Spirits Plant. TTB lawyer. Distillery attorney.
+datePublished: '2015-12-29T02:16:14.469Z'
+dateModified: '2015-12-29T02:16:06.212Z'
 title: Get a Distillery Permit
 author: []
 sourcePath: _posts/2015-12-29-opening-a-distillery.md
