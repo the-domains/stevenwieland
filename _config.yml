@@ -1,6 +1,6 @@
 name: stevenwieland
 favicon: null
-layout_spectrum: 0.77967
+layout_spectrum: 0.25212
 typography_spectrum: 0.57607
 title: Steven Wieland
 cta:
@@ -23,7 +23,7 @@ color:
     - '#005500'
     - '#008000'
   brandStrength: 0.75
-  lightness: 0.75
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
